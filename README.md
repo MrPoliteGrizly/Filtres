@@ -4,7 +4,7 @@
 В проекте имееться 6 разных фильтров:
 </p>
 <ul>
-<li>pretty</l>i
+<li>pretty</l>
 <li>hell</li>
 <li>grey</li>
 <li>red</li>
